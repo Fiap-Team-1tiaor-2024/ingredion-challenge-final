@@ -12,13 +12,13 @@ Este README consolida a metodologia, os resultados e as conclusões da Sprint 3,
 
 - `/`: Contém este README.md.
 - `src/`:
-  - `Challenge_Sprint3_Analise_Rendimento_Completo.ipynb` (Ou nome similar, contendo todo o código da Sprint 3).
+  - `Challenge_Ingredion_Sprint_3.ipynb` (Contendo todo o código da Sprint 3).
 - `data/`:
   - `ibge-dados-cacau.csv` (Dados de produtividade IBGE)
   - `NDVI.csv` (Dados NDVI)
   - `EVI.csv` (Dados EVI)
   - `inmet-ilhéus-chuvas-ventos.csv` (Dados meteorológicos)
-- `images/`: (Para salvar os gráficos e tabelas que serão inseridos neste README)
+- `images/`: (Para salvar os gráficos neste README)
 
 ## 1. Metodologia de Coleta e Preparação dos Dados (Sprint 3)
 
@@ -30,12 +30,12 @@ Este README consolida a metodologia, os resultados e as conclusões da Sprint 3,
     - Descrição: Dados anuais de rendimento médio (kg/ha), área colhida (ha) e quantidade produzida (toneladas) para cacau (em amêndoa) no município de Ilhéus, BA. Período original 1974-2022.
 2.  **Índices de Vegetação (NDVI e EVI):**
     - Arquivos: `NDVI.csv`, `EVI.csv`.
-    - Fonte: [Usuário: Especificar a plataforma de origem, ex: SatVeg, Google Earth Engine, etc.]
+    - Fonte: Satveg - Embrapa
     - Descrição: Séries temporais de NDVI e EVI para um ponto de referência em Ilhéus, BA, cobrindo aproximadamente 2000-2025.
 3.  **Dados Meteorológicos:**
     - Arquivo: `inmet-ilhéus-chuvas-ventos.csv`.
-    - Fonte: [Usuário: Especificar a fonte, ex: INMET - Estação A410 (Ilhéus)].
-    - Descrição: Dados horários contendo variáveis como precipitação, temperatura (bulbo, máxima, mínima), umidade relativa, radiação global, etc. Período original [Usuário: Especificar período original do arquivo de clima, ex: 2003-2023].
+    - Fonte: INMET - Estação A410 (Ilhéus).
+    - Descrição: Dados horários contendo variáveis como precipitação, temperatura (bulbo, máxima, mínima), umidade relativa, radiação global, etc. Período original 2003-2023.
 
 ### 1.2. Pré-processamento e Engenharia de Features
 
