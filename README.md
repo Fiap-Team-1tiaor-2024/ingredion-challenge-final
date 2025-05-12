@@ -1,6 +1,6 @@
 # Projeto de IA para Previsão de Produtividade Agrícola - Challenge Ingredion (Sprint 3 Finalizada)
 
-**(Link do Repositório: [https://github.com/Fiap-Team-1tiaor-2024/ingredion-challenge](https://github.com/Fiap-Team-1tiaor-2024/ingredion-challenge-final/)**
+**Link do Repositório: [https://github.com/Fiap-Team-1tiaor-2024/ingredion-challenge](https://github.com/Fiap-Team-1tiaor-2024/ingredion-challenge-final/)**
 
 ## Visão Geral do Projeto
 
